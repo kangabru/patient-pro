@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: "Antonio"
+  last_name: "Stamm"
+  date_of_birth: "1949-10-05T23:08:26.303Z"
+  gender: "male"
+  phone_number: "(402) 311-7855 x07159"
+  email: "Antonio.Stamm@gmail.com"
+
+two:
+  first_name: "Eric"
+  last_name: "Denesik"
+  date_of_birth: "1963-09-04T09:09:52.986Z"
+  gender: "male"
+  phone_number: "529.605.7429 x3065"
+  email: "Eric_Denesik2@yahoo.com"

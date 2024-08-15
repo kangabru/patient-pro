@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <circle cx="10" cy="10" r="5" fill="white"></circle>
+    <circle cx="10" cy="10" r="9" fill="none" stroke="white" stroke-width="2"></circle>
+    <polyline stroke="white" stroke-width="3" points="2,18 3,17" stroke-linecap="round" />
+
+</svg>
